@@ -1,0 +1,6 @@
+it was the best and it was my worst
+:qa!
+
+sab
+:wq
+
